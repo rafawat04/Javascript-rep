@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+    height: 100vh;
+    font-family: 'Poppins', sans-serif;
+}
+
+iframe{
+    width: 100%;
+    margin-right: auto;
+    position: absolute;
+    z-index: 2;
+    top: 0;
+    right: 0;
+}
+
+p{
+    text-align: center;
+    font-size: 55px;
+}
